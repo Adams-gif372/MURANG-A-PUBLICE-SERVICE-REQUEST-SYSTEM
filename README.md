@@ -33,7 +33,7 @@ public-service-request-system/
 
 Run locally:
 
-The project can be opened by going live on the  index.html directly or using the vercel link after deploying to vercel (https://adams-gif372.github.io/MURANG-A-PUBLICE-SERVICE-REQUEST-SYSTEM/). 
+The project can be opened by going live on the  index.html directly or using the vercel link after deploying to vercel (https://murang-a-public-service-request-sys.vercel.app). 
 
 Bootstrap and the display fonts load from CDNs, so an internet connection is needed for those assets. The core application files remain local.
 
