@@ -105,7 +105,6 @@
             <button class="btn btn-county w-100" type="submit">Sign in securely</button>
           </form>
           <div class="demo-note"><strong>Evaluation accounts</strong><br>Citizen: <code>citizen@example.com</code> / <code>Citizen123!</code><br>Administrator: <code>admin@muranga.go.ke</code> / <code>Admin123!</code></div>
-          <p class="privacy-note">This demonstration stores data in this browser only. Do not use real personal or sensitive information.</p>
         </div>
         <p class="text-center mt-3 mb-0">New to the service? <a href="#register">Create a citizen account</a></p>
       </section>`;
@@ -133,7 +132,6 @@
             <div class="mb-3"><label class="form-label" for="confirmPassword">Confirm password</label><input class="form-control" id="confirmPassword" name="confirmPassword" type="password" autocomplete="new-password" minlength="8" required></div>
             <button class="btn btn-county w-100" type="submit">Create citizen account</button>
           </form>
-          <p class="privacy-note">This demonstration stores data in this browser only. Do not use real personal or sensitive information.</p>
         </div>
         <p class="text-center mt-3 mb-0">Already registered? <a href="#login">Sign in</a></p>
       </section>`;

@@ -6,7 +6,6 @@ Technologies:
 
 HTML5, CSS3, and JavaScript
 Bootstrap 5.3 for responsive components and layout
-Browser `localStorage` and `sessionStorage` for demonstration data
 
 
 FEATURES: 
@@ -34,11 +33,7 @@ public-service-request-system/
 
 Run locally:
 
-The app uses Web Crypto, so run it from `localhost` rather than opening `index.html` directly. 
-
-1. Open a terminal in this project folder.
-2. Start a static server with Python: `py -m http.server 8000` (or `python -m http.server 8000`).
-3. Visit `http://localhost:8000` in a browser.
+The project can be opened by going live on the  index.html directly or using the vercel link after deploying to vercel (https://adams-gif372.github.io/MURANG-A-PUBLICE-SERVICE-REQUEST-SYSTEM/). 
 
 Bootstrap and the display fonts load from CDNs, so an internet connection is needed for those assets. The core application files remain local.
 
